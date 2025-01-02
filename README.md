@@ -1,0 +1,1 @@
+This repository demonstrates a common C error: integer overflow. The example code attempts to assign a value to an integer variable that exceeds its maximum capacity. The solution shows how to prevent this error by using a larger integer type or by checking for potential overflow before assignment. 
